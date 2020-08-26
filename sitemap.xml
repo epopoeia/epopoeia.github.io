@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://epopoeia.github.io/2020/08/26/test1/</loc>
+    
+    <lastmod>2020-08-26</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://epopoeia.github.io/2020/08/26/test/</loc>
     
     <lastmod>2020-08-26</lastmod>
@@ -33,6 +40,13 @@
   
   <url>
     <loc>https://epopoeia.github.io/tags/test/</loc>
+    <lastmod>2020-08-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://epopoeia.github.io/tags/123/</loc>
     <lastmod>2020-08-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
