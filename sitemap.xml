@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://epopoeia.github.io/about/index.html</loc>
+    
+    <lastmod>2020-08-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://epopoeia.github.io/2020/08/26/test2/</loc>
     
     <lastmod>2020-08-26</lastmod>
@@ -23,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://epopoeia.github.io/about/index.html</loc>
-    
-    <lastmod>2020-08-26</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://epopoeia.github.io/2020/08/26/hello-world/</loc>
     
     <lastmod>2020-08-26</lastmod>
@@ -39,7 +39,7 @@
 
   <url>
     <loc>https://epopoeia.github.io/</loc>
-    <lastmod>2020-08-26</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -47,14 +47,14 @@
   
   <url>
     <loc>https://epopoeia.github.io/tags/test/</loc>
-    <lastmod>2020-08-26</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://epopoeia.github.io/tags/123/</loc>
-    <lastmod>2020-08-26</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -63,7 +63,7 @@
   
   <url>
     <loc>https://epopoeia.github.io/categories/go/</loc>
-    <lastmod>2020-08-26</lastmod>
+    <lastmod>2020-08-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
